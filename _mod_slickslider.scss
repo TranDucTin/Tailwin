@@ -1,0 +1,28 @@
+.slickdemo {
+    margin: auto;
+    max-width: 633px;
+    .slick-item {
+        padding-top: 110px;
+        padding-left: 37.8px;
+        padding-right: 43.5px;
+    }
+    h1 {
+        font-size: 36px;
+        font-weight: bold;
+        line-height: 1.33;
+        letter-spacing: -0.29px;
+    }
+    .slick-list {
+        height: 462px;
+        border-radius: 60px;
+        box-shadow: 0 3px 80px 0 rgba(182, 207, 208, 0.5);
+    }
+    .slick-slide {
+        height: 462px;
+    }
+    .slick-left,
+    .slick-right {
+        height: 78px;
+        width: 68px;
+    }
+}
